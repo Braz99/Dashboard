@@ -1,7 +1,7 @@
 # Dashboard
  Tecnologias utilizadas: HTML, CSS, BOOTSTRAP, JAVASCRIPT, JQUERY, AJAX, PHP E MYSQL.
  
- Site simulando que a empresa tem no banco de dados, a quantidade de vendas, o total das vendas, das despesas, dos elogios, das sugestões, das reclamações, de clientes ativos e inativos.
+ Site simulando que a empresa tem no banco de dados, a quantidade das vendas, o total das vendas, das despesas, dos elogios, das sugestões, das reclamações, de clientes ativos e inativos.
  
  
 ## Antes de acessar o index
